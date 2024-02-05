@@ -1,0 +1,6 @@
+Compute Statistics:
+Count: 12767
+Mean: 2.474673954997149e+20
+Median: 2.46655176592627e+20
+Mode: 1.57638329490099e+20
+Standar Deviation: 1.4460792802156285e+20
